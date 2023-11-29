@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marcos Domínguez</h1>
-<h3 align="center">A passionate Frontend developer / Graphic Designer from Dominican Republic 🇩🇴</h3>
+<h1>Hi 👋, I'm Marcos Domínguez</h1>
+<h3>A passionate Frontend developer / Graphic Designer from Dominican Republic 🇩🇴</h3>
 
 - 🔭 I’m currently working on **private projects**
 
