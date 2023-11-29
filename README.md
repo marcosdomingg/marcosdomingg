@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Marcos Domínguez</h1>
 <h3>A passionate Frontend developer / Graphic Designer from Dominican Republic 🇩🇴</h3>
 <br>
-- 🔭 I’m currently working on **private projects**
+- 🔭 I’m currently working on ***private projects***
 
 - 🌱 I’m currently learning **Node.js, SQL, PHP**
 
