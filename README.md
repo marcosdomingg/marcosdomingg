@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://linkedin.com/in/marcosdominguez](https://www.linkedin.com/in/marcos-dominguez-52a855224/](https://www.linkedin.com/in/marcos-dominguez-52a855224/))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcosdominguez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcos-dominguez-52a855224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcosdominguez" height="30" width="40" /></a>
 <a href="[https://instagram.com/marcosdomingg](https://www.instagram.com/marcosdomingueg/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcosdomingg" height="30" width="40" /></a>
 <a href="[https://www.behance.net/stylecod3](https://www.behance.net/gallery/183169849/Portfolio-Marcos-Dominguez)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="stylecod3" height="30" width="40" /></a>
 </p>
